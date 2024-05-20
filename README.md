@@ -19,8 +19,6 @@ The Greedy K algorithm selects initial centroids greedily by choosing points tha
 
 The notebook also includes spectral clustering using Gaussian similarity function and K-nearest neighborhood structure. Spectral clustering involves creating a weighted adjacency matrix and computing the eigenvectors of the Laplacian matrix.
 
-**Spectral Clustering Implementation and Visualization**:
-    The notebook contains several cells for implementing and visualizing spectral clustering using different similarity functions and neighborhood structures. 
 
 ## Results
 
